@@ -676,7 +676,7 @@ class Ui_MainWindow(object):
         self.action_zoom_to_fit.setShortcut(_translate("MainWindow", "Home"))
         self.action_path_style.setText(_translate("MainWindow", "Solid Style &Path"))
         self.action_path_style.setStatusTip(_translate("MainWindow", "Show path in solid line style, otherwise will be isolated dots."))
-        self.action_pyslvs_com.setText(_translate("MainWindow", "&Pyslvs.com"))
+        self.action_pyslvs_com.setText(_translate("MainWindow", "&Pyslvs.github.io"))
         self.action_pyslvs_com.setStatusTip(_translate("MainWindow", "Goto Pyslvs home page."))
         self.action_show_console.setText(_translate("MainWindow", "&Show GUI Console"))
         self.action_show_console.setStatusTip(_translate("MainWindow", "Open a widget to show console output."))

@@ -24,8 +24,8 @@ A GUI-based ([PyQt5]) tool used to design 2D linkage mechanism.
     + **Dimensional Synthesis**: Kernel from the three Cython algorithms (rewrite).
 + **Websites**
     + Readthedocs ([stable] / [latest])
-    + [Content Management System](http://www.pyslvs.com/content) (to be maintained)
-    + [Blog Framework](http://www.pyslvs.com/blog/index.html) (to be maintained)
+    + [Content Management System](https://pyslvs.github.io) (to be maintained)
+    + [Blog Framework](https://pyslvs.github.io/blog/index.html) (to be maintained)
 + **Others**
     + Cross three platforms.
     + CAD-like user interface.

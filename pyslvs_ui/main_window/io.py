@@ -157,8 +157,8 @@ class IOMethodInterface(ActionMethodInterface, ABC):
 
     @Slot(name='on_action_pyslvs_com_triggered')
     def __show_pyslvs_com(self) -> None:
-        """Open website: pyslvs.com"""
-        self.__open_url("http://www.pyslvs.com/content/index.html")
+        """Open website: pyslvs.github.io"""
+        self.__open_url("https://pyslvs.github.io")
 
     @Slot(name='on_action_github_repository_triggered')
     def __show_github(self) -> None:

@@ -1161,7 +1161,7 @@
      <normaloff>icons:main.png</normaloff>icons:main.png</iconset>
    </property>
    <property name="text">
-    <string>&amp;Pyslvs.com</string>
+    <string>&amp;Pyslvs.github.io</string>
    </property>
    <property name="statusTip">
     <string>Goto Pyslvs home page.</string>

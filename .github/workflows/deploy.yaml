@@ -58,9 +58,4 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: dist/*.zip
-      - if: startsWith(github.ref, 'refs/tags/v') && matrix.pyver == '3.10' && matrix.os == 'ubuntu-latest'
-        name: PyPI release
-        run: |
-          python -m pip install twine
-          python -m build --wheel
-          python -m twine upload "dist/*.whl" --skip-existing
+  
